@@ -1,2 +1,2 @@
 # project
-Patika Python Prohect
+Patika Python Project
